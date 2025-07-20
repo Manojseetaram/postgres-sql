@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Manojseetaram/postgres-sql/issues"
   },
-  "homepage": "https://github.com/Manojseetaram/postgres-sql#readme"
+  "homepage": "https://github.com/Manojseetaram/postgres-sql#readme",
+  "dependencies": {
+    "@types/pg": "^8.15.4",
+    "pg": "^8.16.3"
+  }
 }
